@@ -1,4 +1,3 @@
-# medica-chatbot
+# Medica Chatbot
 Reducing Hospital Costs by Detecting Trauma Severity
-
-## the json export of the chatbot created for IBM Watson API
+(the json export of the chatbot created for IBM Watson API)
