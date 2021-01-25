@@ -1,0 +1,2202 @@
+{
+  "intents": [
+    {
+      "intent": "accident",
+      "examples": [
+        {
+          "text": "accident"
+        },
+        {
+          "text": "bullet"
+        },
+        {
+          "text": "car crash"
+        },
+        {
+          "text": "gun"
+        },
+        {
+          "text": "had injury"
+        },
+        {
+          "text": "I dropped"
+        },
+        {
+          "text": "I had an accident"
+        },
+        {
+          "text": "I had an injury"
+        },
+        {
+          "text": "I injured"
+        },
+        {
+          "text": "injury"
+        },
+        {
+          "text": "single event"
+        },
+        {
+          "text": "single event accident"
+        },
+        {
+          "text": "single event trauma"
+        },
+        {
+          "text": "there was an accident"
+        },
+        {
+          "text": "there was an injury"
+        },
+        {
+          "text": "trauma"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "bleeding",
+      "examples": [
+        {
+          "text": "bleeding"
+        },
+        {
+          "text": "blood"
+        },
+        {
+          "text": "blood everywhere"
+        },
+        {
+          "text": "I have bleeding"
+        },
+        {
+          "text": "I have blood"
+        },
+        {
+          "text": "it bleeds"
+        }
+      ]
+    },
+    {
+      "intent": "body_region",
+      "examples": [
+        {
+          "text": "abdomen"
+        },
+        {
+          "text": "ankle"
+        },
+        {
+          "text": "arm"
+        },
+        {
+          "text": "bottom"
+        },
+        {
+          "text": "chest"
+        },
+        {
+          "text": "ears"
+        },
+        {
+          "text": "elbow"
+        },
+        {
+          "text": "eyes"
+        },
+        {
+          "text": "feet"
+        },
+        {
+          "text": "fingers"
+        },
+        {
+          "text": "foot"
+        },
+        {
+          "text": "hand"
+        },
+        {
+          "text": "head"
+        },
+        {
+          "text": "hip"
+        },
+        {
+          "text": "knee"
+        },
+        {
+          "text": "knuckles"
+        },
+        {
+          "text": "legs"
+        },
+        {
+          "text": "low back"
+        },
+        {
+          "text": "lung"
+        },
+        {
+          "text": "lungs"
+        },
+        {
+          "text": "mouth"
+        },
+        {
+          "text": "neck"
+        },
+        {
+          "text": "nose"
+        },
+        {
+          "text": "ovaries"
+        },
+        {
+          "text": "penis"
+        },
+        {
+          "text": "shoulder"
+        },
+        {
+          "text": "stomach"
+        },
+        {
+          "text": "teeth"
+        },
+        {
+          "text": "thorax"
+        },
+        {
+          "text": "throat"
+        },
+        {
+          "text": "wrist"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "broken_skin",
+      "examples": [
+        {
+          "text": "broken skin"
+        },
+        {
+          "text": "I have broken skin"
+        },
+        {
+          "text": "I have scar"
+        },
+        {
+          "text": "scar"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cancer",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "contact_to_risk",
+      "examples": [
+        {
+          "text": "close contact"
+        },
+        {
+          "text": "Close contact to high risk"
+        },
+        {
+          "text": "contact"
+        },
+        {
+          "text": "cough"
+        },
+        {
+          "text": "I am dying"
+        },
+        {
+          "text": "I cough"
+        },
+        {
+          "text": "I had"
+        },
+        {
+          "text": "I had a close contact with a covid-risk person"
+        },
+        {
+          "text": "I had contact"
+        },
+        {
+          "text": "I partied"
+        },
+        {
+          "text": "I was outside without mask"
+        },
+        {
+          "text": "smell loss"
+        },
+        {
+          "text": "smell or taste loss"
+        },
+        {
+          "text": "taste loss"
+        },
+        {
+          "text": "without mask"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "family_history",
+      "examples": [
+        {
+          "text": "arthritis"
+        },
+        {
+          "text": "has arthritis"
+        },
+        {
+          "text": "has degenerative bone disease"
+        },
+        {
+          "text": "has osteoporosis"
+        },
+        {
+          "text": "my father has degenerative bone disease"
+        },
+        {
+          "text": "my mother has degenerative bone disease"
+        },
+        {
+          "text": "my sister has degenerative bone disease"
+        },
+        {
+          "text": "osteoporosis"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Hola"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "infection",
+      "examples": [
+        {
+          "text": "discoloured"
+        },
+        {
+          "text": "infected"
+        },
+        {
+          "text": "infection"
+        },
+        {
+          "text": "my region is infected"
+        },
+        {
+          "text": "yellow discoloured discharge"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lump",
+      "examples": [
+        {
+          "text": "I have a mass on my body"
+        },
+        {
+          "text": "lump"
+        },
+        {
+          "text": "mass"
+        },
+        {
+          "text": "sudden growth"
+        },
+        {
+          "text": "there a lump on my body"
+        },
+        {
+          "text": "there is a growth"
+        },
+        {
+          "text": "there is a growth on my body"
+        },
+        {
+          "text": "there is a mass"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "no_accident",
+      "examples": [
+        {
+          "text": "for long time"
+        },
+        {
+          "text": "I am having this pain for long time"
+        },
+        {
+          "text": "I have this for long time"
+        },
+        {
+          "text": "I have this pain for a long time"
+        },
+        {
+          "text": "it is a long term issue"
+        },
+        {
+          "text": "it is not an accident"
+        },
+        {
+          "text": "no accident"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "no_contact_to_risk",
+      "examples": [
+        {
+          "text": "I didn't have contact"
+        },
+        {
+          "text": "I was home"
+        },
+        {
+          "text": "I was safe"
+        },
+        {
+          "text": "I was watching TV"
+        },
+        {
+          "text": "no contact"
+        },
+        {
+          "text": "no risk"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pain_scale",
+      "examples": [
+        {
+          "text": "high"
+        },
+        {
+          "text": "low"
+        },
+        {
+          "text": "medium"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "psoriasis",
+      "examples": [
+        {
+          "text": "psoriasis"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rash",
+      "examples": [
+        {
+          "text": "I have rash on my skin"
+        },
+        {
+          "text": "I have redness"
+        },
+        {
+          "text": "I have redness on my skin"
+        },
+        {
+          "text": "it has rash"
+        },
+        {
+          "text": "it has red marks"
+        },
+        {
+          "text": "it is red"
+        },
+        {
+          "text": "I was bitten by an insect"
+        },
+        {
+          "text": "rash"
+        },
+        {
+          "text": "red"
+        },
+        {
+          "text": "redness"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "yes_no",
+      "examples": [
+        {
+          "text": "no"
+        },
+        {
+          "text": "yes"
+        }
+      ],
+      "description": "Yes or no questions"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "body_region",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "abdomen",
+          "synonyms": [
+            "abdominal",
+            "bowel",
+            "intestinal",
+            "stomach"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chest",
+          "synonyms": [
+            "lung",
+            "thorax",
+            "throat",
+            "upper body"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "elbow",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "finger",
+          "synonyms": [
+            "knuckle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "foot",
+          "synonyms": [
+            "ankle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hand",
+          "synonyms": [
+            "wrist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "head",
+          "synonyms": [
+            "neck"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hip",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "knee",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "legs",
+          "synonyms": [
+            "lower body"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "low back",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mouth",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "nose",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ovaries",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "penis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "shoulder",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "teeth",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "wrist",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "pain_scale",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "high",
+          "synonyms": [
+            "bad",
+            "severe"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "low",
+          "synonyms": [
+            "good",
+            "not bad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "medium",
+          "synonyms": [
+            "so so"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "types_of_familydiseases",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "AUTOIMMUNE CONDITIONS",
+          "synonyms": [
+            "coeliac disease",
+            "typhoid "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BLOOD CLOTS",
+          "synonyms": [
+            "vein trombosis"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cancer",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "cardiovascular diseases",
+          "synonyms": [
+            "heart attack",
+            "stroke"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "diabetes",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "menstrual problems",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mental health",
+          "synonyms": [
+            "alzheimer",
+            "bipolar disorder",
+            "narcolepsy",
+            "neurodegenerative",
+            "parkinsonism",
+            "psychosis",
+            "schizophrenia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "OSTEOPOROSIS",
+          "synonyms": [
+            "bone",
+            "fragile",
+            "thinning"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "types_of_rashes",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "I am allergic to a plant that provokes redness",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I am allergic to milk",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I am allergic to nuts",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I have a condition where my pores are blocked creating redness",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I have been bitten a dog",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I have been bitten by an insect",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I have been having psoriasis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I have been using drugs",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "I was in direct someone infected with a ringworm",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "yes_no",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "I don't",
+            "I don't have"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "I do",
+            "I have"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Family doctor",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your symptoms seem to be in line with degenerative bone diseases. Medica suggests that you contact your family doctor as soon as possible to establish further treatment. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606643685022",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_10_1606643958807"
+    },
+    {
+      "type": "standard",
+      "title": "Elaborate on symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Can you be a bit more specific about your symptoms?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606601039888",
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_10_1606644428935",
+      "previous_sibling": "node_2_1606644377896"
+    },
+    {
+      "type": "standard",
+      "title": "Covid Assessment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to increasing cases of Covid-19, I have to direct you a quick questionnaire regarding Covid-19. You may have Covid-19. Have you been in close contact to someone with high risk (coughing, without mask) in the last days?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1606253149381",
+      "conditions": "@body_region:chest",
+      "dialog_node": "node_1_1606579551010"
+    },
+    {
+      "type": "standard",
+      "title": "Broken Skin",
+      "parent": "node_8_1606253804443",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#broken_skin || #rash || #bleeding || @yes_no:yes",
+      "dialog_node": "node_1_1606591059618"
+    },
+    {
+      "type": "standard",
+      "title": "Direct Region Assessment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I got your answer, thank you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1606253149381",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#body_region",
+      "dialog_node": "node_1_1606594821693",
+      "previous_sibling": "node_1_1606579551010"
+    },
+    {
+      "type": "standard",
+      "title": "None is recognized",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606579551010",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1606593786728"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1606600380301",
+      "previous_sibling": "node_7_1606590275844"
+    },
+    {
+      "type": "standard",
+      "title": "If Accident",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It seems like you were in an accident. Are you in a capacity to call emergencies (112), or are you seeking help concerning another person?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1606644428935",
+      "conditions": "#accident",
+      "dialog_node": "node_1_1606644729243",
+      "previous_sibling": "node_3_1606646630833"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your pain does not seem to have anything to do with your family history, let us continue. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606655975647",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1606644428935"
+      },
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_1_1606656827907",
+      "previous_sibling": "node_5_1606656729165"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright, I am glad. You should still get checked every 6 months if cancer runs in your family. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606657452954",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1606644428935"
+      },
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_1_1606658073235",
+      "previous_sibling": "node_5_1606657957111"
+    },
+    {
+      "type": "standard",
+      "title": "High Pain",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are your symptoms due to a single event trauma related to an accident or injury?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606597647792",
+      "conditions": "@pain_scale:high && #pain_scale",
+      "dialog_node": "node_2_1606579420824"
+    },
+    {
+      "type": "standard",
+      "title": "High Risk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would highly recommend you to go to the nearest hospital for a BT and a PCR test for COVID-19. You can follow the guidelines here: https://www.spain.info/en/discover-spain/practical-information-tourists-covid-19-travel-spain/."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1606590275844",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#contact_to_risk ||  @yes_no:(yes)",
+      "dialog_node": "node_2_1606593022722",
+      "previous_sibling": "node_6_1606593132206"
+    },
+    {
+      "type": "standard",
+      "title": "Elaborate on family diseases",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Can you please shortly elaborate what diseases run in your family so we can further assess your case?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606601039888",
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_2_1606644377896"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Since your pain is located in the central part of the body and that your family has a history of cardiovascular diseases, you should still contact a doctor. In the urgency, and if you feel like you are going to faint make sure you are with someone who can get instructions from a medical team. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606655975647",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1606657166551",
+      "previous_sibling": "node_1_1606656827907"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am sorry to hear this. Mental health is unfortunately out of my reach. If you are feeling alone and depressive I can suggest my good friend Eve the Chatbot to keep you company: https://www.eviebot.com/en/ "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1606644377896",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@types_of_familydiseases:(mental health)",
+      "dialog_node": "node_2_1606658139112",
+      "previous_sibling": "node_4_1606657452954"
+    },
+    {
+      "type": "standard",
+      "title": "Pain Severity",
+      "output": {
+        "generic": [
+          {
+            "title": "Now, I should ask you the severity of your pain in the relevant region from low to high (low, medium, high)?",
+            "options": [
+              {
+                "label": "I have so much pain",
+                "value": {
+                  "input": {
+                    "text": "high"
+                  }
+                }
+              },
+              {
+                "label": "I have moderate pain",
+                "value": {
+                  "input": {
+                    "text": "medium"
+                  }
+                }
+              },
+              {
+                "label": "It doesn't hurt that much",
+                "value": {
+                  "input": {
+                    "text": "low"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1606594821693",
+      "conditions": "#body_region",
+      "dialog_node": "node_3_1606597647792"
+    },
+    {
+      "type": "standard",
+      "title": "Lump/Lesion detection",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am so sorry that it happened. You condition can be very serious. Tell me if you see any sudden growths, lumps on or around the pain area?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1606579420824",
+      "conditions": "#accident",
+      "dialog_node": "node_3_1606599645652"
+    },
+    {
+      "type": "standard",
+      "title": "None is recognized",
+      "parent": "node_3_1606597647792",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1606593786728"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_3_1606600271926",
+      "previous_sibling": "node_8_1606253804443"
+    },
+    {
+      "type": "standard",
+      "title": "If degenerative bone disease YES",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Does the pain associated have the following symptoms: joint stiffness, limited range of motion\nbumps or deformities of the joint, creaking or grinding when you move the joint?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or No",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1606578315816",
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_3_1606643685022",
+      "previous_sibling": "node_5_1606601039888"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_3_1606643685022",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1606644428935"
+      },
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_3_1606644023611",
+      "previous_sibling": "node_10_1606643958807"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If the person you are with is unconscious, please call the number 112. Then you should make sure she is in a lateral security position. DO NOT TRY TO MOVE HER BODY AS THIS MIGHT CAUSE SEVERE HEMORRHAGE AND BLOOD LOSS."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Yes"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606644729243",
+      "conditions": "#accident && #yes_no",
+      "dialog_node": "node_3_1606644801233"
+    },
+    {
+      "type": "standard",
+      "title": "If Lumps",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It seems like you have a lump or a cyst. Most cysts are harmless but you should nonetheless get in contact with a general practitioner as they can also be a source of cancer and other diseases.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1606644428935",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#lump",
+      "dialog_node": "node_3_1606646630833",
+      "previous_sibling": "node_4_1606646909947"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_5_1606658474883",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1606644428935"
+      },
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_3_1606658695228",
+      "previous_sibling": "node_4_1606658626766"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "parent": "node_7_1606590275844",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1606602717545",
+      "previous_sibling": "node_2_1606593022722"
+    },
+    {
+      "type": "standard",
+      "title": "Rashes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It seems like you have a rash. Can you please tell us if you have been in contact with an allergen, a specific plant, animal, bug, have been using drugs or have been in contact with someone infected with a ringworm?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1606644428935",
+      "conditions": "#rash",
+      "dialog_node": "node_4_1606646909947",
+      "previous_sibling": "node_7_1606644563916"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I cannot help you with your condition, you should seek medical help from a professional."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1606644428935",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1606649358322",
+      "previous_sibling": "node_1_1606644729243"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have you been diagnosed with cancer yourself?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or no",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1606644377896",
+      "conditions": "@types_of_familydiseases:cancer",
+      "dialog_node": "node_4_1606657452954",
+      "previous_sibling": "node_5_1606655975647"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Diabetes is something you should see with a licensed practitioner.  However, your injury might not be related to it."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606658474883",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1606644428935"
+      },
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_4_1606658626766"
+    },
+    {
+      "type": "standard",
+      "title": "Medium Pain",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have you or a member of your family ever been diagnosed with degenerative bones disease, osteoporosis or arthritis?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or No",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1606597647792",
+      "conditions": "@pain_scale:medium && #pain_scale",
+      "dialog_node": "node_5_1606578315816",
+      "previous_sibling": "node_2_1606579420824"
+    },
+    {
+      "type": "standard",
+      "title": "Family history is being taken in general",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have a history of degenerative, cancers, or any other genetic diseases in your family?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or No",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1606578315816",
+      "conditions": "@yes_no:no",
+      "dialog_node": "node_5_1606601039888"
+    },
+    {
+      "type": "standard",
+      "title": "Drug use",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A common type of rash caused by drugs is known as the \"drug rash\". If you stop your consumption it should eventually fade but we suggest you take an appointment with a general practitioner since bad cases of this can lead to necrosis. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606646909947",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@types_of_rashes:(I have been using drugs)",
+      "dialog_node": "node_5_1606647609611",
+      "previous_sibling": "node_7_1606647959250"
+    },
+    {
+      "type": "standard",
+      "title": "Can I help you with anything else(needs to be connected to conclusion)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Is there anything else I can help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1606593786728"
+      },
+      "dialog_node": "node_5_1606648233313",
+      "previous_sibling": "node_6_1606593786728"
+    },
+    {
+      "type": "standard",
+      "title": "Cardio",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you feeling dizzy, numbness, and experiencing the overall symptoms of a heart attack?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or no",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1606644377896",
+      "conditions": "@types_of_familydiseases:(cardiovascular diseases)",
+      "dialog_node": "node_5_1606655975647"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Call 112 immediately. \nChew and swallow an aspirin, unless you are allergic to aspirin or have been told by your doctor never to take aspirin. \nTake nitroglycerin, if prescribed. If you think you're having a heart attack and your doctor has previously prescribed nitroglycerin for you, take it as directed. Don't take anyone else's nitroglycerin, because that could put you in more danger."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1606655975647",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_5_1606656729165"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Cancer is unfortunately out of our diagnosis reach. You should seek professional help from a doctor or clinic. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606657452954",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@yes_no:yes",
+      "dialog_node": "node_5_1606657957111"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have you been diagnosed with diabetes?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Yes or No",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1606644377896",
+      "conditions": "@types_of_familydiseases:diabetes",
+      "dialog_node": "node_5_1606658474883",
+      "previous_sibling": "node_2_1606658139112"
+    },
+    {
+      "type": "standard",
+      "title": "Low Risk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am glad to hear that you obey rules and keep social distance. Don't forget to use mask and frequently wash your hands. I have very bad memory nowadays, can you repeat the body region that you are having pain?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1606590275844",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1606594821693"
+      },
+      "conditions": "@yes_no:no || #no_contact_to_risk",
+      "dialog_node": "node_6_1606593132206"
+    },
+    {
+      "type": "standard",
+      "title": "Just incase the user doesn't greet us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please, tell me the magic word \"hello\" to start again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1606253149381"
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1606593786728",
+      "previous_sibling": "node_8_1606253149381"
+    },
+    {
+      "type": "standard",
+      "title": "Psoriasis",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If you have psoriasis, there is no real cure available at the moment. You should nonetheless seek the help of a dermatologist. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606646909947",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@types_of_rashes:(I have been having psoriasis)",
+      "dialog_node": "node_6_1606647152966"
+    },
+    {
+      "type": "standard",
+      "title": "Rabies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A bite by an animal should never be treated lightly, especially if it was a wild animal. You should call the number 112 and go straight to a hospital to prevent a rabies case if you have not been vaccinated. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606646909947",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@types_of_rashes:(I have been bitten a dog)",
+      "dialog_node": "node_6_1606647763346",
+      "previous_sibling": "node_5_1606647609611"
+    },
+    {
+      "type": "standard",
+      "title": "Covid Symptoms Check",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have cough, smell and taste loss, or chest pain?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606579551010",
+      "conditions": "#no_contact_to_risk || #contact_to_risk || @yes_no:no || @yes_no:(yes)",
+      "dialog_node": "node_7_1606590275844"
+    },
+    {
+      "type": "standard",
+      "title": "Rest at Home",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It looks like you don't have an emergent condition. Stay home and rest a little bit and check with us in 24 hours."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1606253804443",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1606591175081",
+      "previous_sibling": "node_1_1606591059618"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You don't have infection or bleeding under your skin. I haven't suspected anything emergent but I still suggest you to see a doctor as soon as possible. Good bye. Re-evaluate with us after your hospital visit."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1606600095361",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1606601490269",
+      "previous_sibling": "node_8_1606601457343"
+    },
+    {
+      "type": "standard",
+      "title": "Not Emergent, Act as Medium",
+      "parent": "node_2_1606579420824",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606578315816"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1606602185414",
+      "previous_sibling": "node_7_1606602545052"
+    },
+    {
+      "type": "standard",
+      "title": "Not Accident",
+      "parent": "node_2_1606579420824",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606578315816"
+      },
+      "conditions": "#no_accident",
+      "dialog_node": "node_7_1606602545052",
+      "previous_sibling": "node_3_1606599645652"
+    },
+    {
+      "type": "standard",
+      "title": "If bleeding",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It seems like you are bleeding, in case of immediate urgency please call the number 112. If this is a mild cut, rinse it under cold water and then disinfect it with alcohol, patch it up and check on it every 24/hours. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1606644428935",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#bleeding",
+      "dialog_node": "node_7_1606644563916"
+    },
+    {
+      "type": "standard",
+      "title": "Allergy to nuts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You should try to find an EpiPen straight away and alert your surroundings. This type of allergy can be lethal. Call an ambulance at 112 if you cannot find an immediate solution. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1606646909947",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "@types_of_rashes:(I am allergic to nuts)",
+      "dialog_node": "node_7_1606647959250",
+      "previous_sibling": "node_6_1606647152966"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting + Body Region",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Before we get started, let me ask you a few questions? Could you tell where your pain is?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#greeting",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1606253149381",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Low Pain",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Is there a redness, broken skin, or bleeding on or around the area?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606597647792",
+      "conditions": "@pain_scale:low && #pain_scale",
+      "dialog_node": "node_8_1606253804443",
+      "previous_sibling": "node_5_1606578315816"
+    },
+    {
+      "type": "standard",
+      "title": "If no lump ask for infection",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you think there are any signs that the area might be infected? If it is infected you may have excessive redness, swelling or yellow/green colored discharge."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606599645652",
+      "conditions": "anything_else",
+      "dialog_node": "node_8_1606600095361",
+      "previous_sibling": "node_8_1606600806016"
+    },
+    {
+      "type": "standard",
+      "title": "Bleeding",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There is a high change that you are bleeding under your skin. I would highly recommend you to call an ambulance to take you to the nearest hospital. Here is the number: 112. Don't forget to re-evaluate after your hospital visit."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606599645652",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#lump",
+      "dialog_node": "node_8_1606600806016"
+    },
+    {
+      "type": "standard",
+      "title": "Infection detected",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It looks like you are infected. Infection can get very dangerous if not treated immediately. I would suggest to call an ambulance as soon as possible. Here is the number you should call: 112. Re-evaluate with us after your hospital visit."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1606600095361",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#infection",
+      "dialog_node": "node_8_1606601457343"
+    },
+    {
+      "type": "standard",
+      "title": "If person is unconscious and not breathing (needs intent)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Begin CPR if the person is unconscious. If you're with a person who is unconscious, tell the 112 dispatchers or another emergency medical specialist. You may be advised to begin cardiopulmonary resuscitation (CPR)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1606644801233",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1606648233313"
+      },
+      "conditions": "#accident",
+      "dialog_node": "node_9_1606644948970"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A slight bleeding and low pain doesn't look so emergent. You can go to the nearest pharmacy to get band id if you have a small scratch or bleeding. Don't forget to come back to re-evaluate with us in 24 hours. Good bye for now."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606591059618",
+      "conditions": "#bleeding",
+      "dialog_node": "response_1_1606598903828",
+      "previous_sibling": "response_4_1606598881159"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A slight rash and low pain doesn't look so emergent. You can go to the nearest pharmacy if you have a small scratch or bleeding. Don't forget to come back to re-evaluate with us in 24 hours. Good bye for now."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606591059618",
+      "conditions": "#rash",
+      "dialog_node": "response_2_1606598917836",
+      "previous_sibling": "response_1_1606598903828"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A slight scar doesn't look so emergent. You can go to the nearest pharmacy to get band id if you have a small scratch or bleeding. Don't forget to come back to re-evaluate with us in 24 hours. Good bye for now."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606591059618",
+      "conditions": "#broken_skin",
+      "dialog_node": "response_4_1606598881159"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can go to the nearest pharmacy if you have a small scratch or bleeding. Don't forget to come back to re-evaluate with us in 24 hours. Good bye for now."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1606591059618",
+      "conditions": "anything_else",
+      "dialog_node": "response_8_1606599061773",
+      "previous_sibling": "response_2_1606598917836"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "(This chatbot is not intended for diagnose. You should consult to your doctor before making final decisions on your treatments). Hello. I am Medica, your medical assistant today."
+              },
+              {
+                "text": "(This chatbot is not intended for diagnose. You should consult to your doctor before making final decisions on your treatments). Hi! I am Medica, your online trauma severity assessment tool."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": false,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Medica",
+  "language": "en",
+  "description": ""
+}
